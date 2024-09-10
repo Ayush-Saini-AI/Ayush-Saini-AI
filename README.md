@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-Saini-AI
 - 👀 I’m interested in APP DELEVOPMENT
 - 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on FLutter
+- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me 1ayushsaini@gmail.com
 
 
