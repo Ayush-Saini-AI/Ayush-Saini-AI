@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush-Saini-AI
-- 👀 I’m interested in WRB DELEVOPMENT
+- 👀 I’m interested in WEB DELEVOPMENT
 - 📫 How to reach me ayushsaini1049@gmail.com
 
 
